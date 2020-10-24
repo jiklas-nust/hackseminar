@@ -4,3 +4,4 @@
 # Press the green button in the gutter to run the script.
 
 print('Hello World')
+print('Felix ist komischer Kautz ein')
