@@ -11,11 +11,13 @@ message = f'{greeting}, {name.upper()}. Du Spacko!'
 
 print(message)
 
-num = 6
+num = 4
 
-remainder = num % 2
-
-if remainder == 1:
+if (num % 2) == 1:
     print(f'Die Zahl {num} ist ungerade')
 else:
     print(f'Die Zahl {num} ist gerade')
+
+courses = ['History', 'Math', 'Physics', 'Sports']
+
+print(courses)
